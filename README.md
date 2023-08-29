@@ -125,11 +125,5 @@
 </a>
 </p>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshgsx&show_icons=true&locale=en&layout=compact" alt="harshgsx" />
-</p>
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshgsx&show_icons=true&locale=en" alt="harshgsx" />
-</p>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgsx&" alt="harshgsx" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgsx&show_icons=true&theme=transparent" alt="harshgsx" />
 </p>
